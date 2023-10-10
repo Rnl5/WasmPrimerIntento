@@ -1,0 +1,81 @@
+@page "/registroAportes"
+@inject NotificationService notificationService
+
+<EditForm model= "Aportes">
+    <DataAnnotationsValidator/>
+
+    <div class ="container">
+        <div class ="card">
+
+            <div class ="card-header">
+                <head>
+                    <h1>Registro de Aportes</h1>
+                </head>
+            </div>
+
+            <div class="card-body">
+                <body>
+                    <div class ="row">
+                        <div class ="col">
+                            <label>ID</label>
+                            <div class="input-group mb-3">
+                                <InputNumber @bind-Value="aportes.AporteId" class="form-control" aria-describedby="BotonBuscar" placeholder="AporteId"/>
+                                <button  class="btn btn-outline-primary" type="button" id="BotonBuscar"><i class="oi oi-magnifying-glass" /></button>
+                            </div>
+                        </div>
+
+                        <div class ="col">
+                            <div class="input-group-mb-3">
+                                <label>Fecha</label>
+                                <InputDate class ="form-control" @bind-Value="aportes.Fecha" aria-describedby="FechaAportes"></InputDate>
+                                <ValidationMessage For ="@(() => aportes.Fecha)"></ValidationMessage>
+                            </div>
+                        </div>
+                    </div>
+                    
+
+                    <div class ="input-group-mb-3">
+                        <label>Persona</label>
+                        <InputText class ="form-control" @bind-Value="aportes.Persona" aria-describedby="PersonaAportes"></InputText>
+                        <ValidationMessage For ="@(() => aportes.Persona)"></ValidationMessage>
+                    </div>
+
+                    <div class ="input-group-mb-3">
+                        <label>Observaci&oacute;n</label>
+                        <InputTextArea class="form-control" @bind-Value="aportes.Observacion" aria-describedby="ObservacionAportes"></InputTextArea>
+                        <ValidationMessage For = "@(() => aportes.Observacion)"></ValidationMessage>
+                    </div>
+
+                    <div class="input-group-mb-3">
+                        <label>Monto</label>
+                        <InputNumber class="form-control" @bind-Value="aportes.Monto" aria-describedby="MontoAportes"></InputNumber>
+                        <ValidationMessage For ="@(() => aportes.Monto)"></ValidationMessage>
+                    </div>
+
+                    <div class ="btn-group">
+                        <button type ="button" class="btn btn-outline-primary"><i class="oi oi-file"></i>Nuevo</button>
+                        <button type ="submit" class="btn btn-outline-success"><i class="oi oi-document"></i>Guardar</button>
+                        <button class="btn btn-outline-danger" type="button" ><i class="oi oi-trash"></i>Eliminar</button>
+                    </div>
+                </body>
+            </div>
+        </div>
+    </div>
+
+
+
+</EditForm>
+
+
+
+@code
+{
+    [Parameter]
+    public int AporteId {get; set;}
+    public Aportes aportes {get; set;} = new Aportes();
+
+        protected override void OnInitialized()
+        {
+            
+        }
+}
