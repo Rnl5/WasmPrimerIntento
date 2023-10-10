@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WasmPrimerIntento.Client.props" />
+</Project>

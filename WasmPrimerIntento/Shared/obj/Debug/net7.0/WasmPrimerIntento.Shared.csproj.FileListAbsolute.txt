@@ -1,0 +1,11 @@
+C:\APLICADA1\WasmPrimerIntento\WasmPrimerIntento\Shared\bin\Debug\net7.0\WasmPrimerIntento.Shared.deps.json
+C:\APLICADA1\WasmPrimerIntento\WasmPrimerIntento\Shared\bin\Debug\net7.0\WasmPrimerIntento.Shared.dll
+C:\APLICADA1\WasmPrimerIntento\WasmPrimerIntento\Shared\bin\Debug\net7.0\WasmPrimerIntento.Shared.pdb
+C:\APLICADA1\WasmPrimerIntento\WasmPrimerIntento\Shared\obj\Debug\net7.0\WasmPrimerIntento.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\APLICADA1\WasmPrimerIntento\WasmPrimerIntento\Shared\obj\Debug\net7.0\WasmPrimerIntento.Shared.AssemblyInfoInputs.cache
+C:\APLICADA1\WasmPrimerIntento\WasmPrimerIntento\Shared\obj\Debug\net7.0\WasmPrimerIntento.Shared.AssemblyInfo.cs
+C:\APLICADA1\WasmPrimerIntento\WasmPrimerIntento\Shared\obj\Debug\net7.0\WasmPrimerIntento.Shared.csproj.CoreCompileInputs.cache
+C:\APLICADA1\WasmPrimerIntento\WasmPrimerIntento\Shared\obj\Debug\net7.0\WasmPrimerIntento.Shared.dll
+C:\APLICADA1\WasmPrimerIntento\WasmPrimerIntento\Shared\obj\Debug\net7.0\refint\WasmPrimerIntento.Shared.dll
+C:\APLICADA1\WasmPrimerIntento\WasmPrimerIntento\Shared\obj\Debug\net7.0\WasmPrimerIntento.Shared.pdb
+C:\APLICADA1\WasmPrimerIntento\WasmPrimerIntento\Shared\obj\Debug\net7.0\ref\WasmPrimerIntento.Shared.dll
