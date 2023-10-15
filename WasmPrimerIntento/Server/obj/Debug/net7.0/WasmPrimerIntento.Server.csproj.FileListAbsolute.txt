@@ -89,3 +89,5 @@ C:\APLICADA1\WasmPrimerIntento\WasmPrimerIntento\Server\obj\Debug\net7.0\refint\
 C:\APLICADA1\WasmPrimerIntento\WasmPrimerIntento\Server\obj\Debug\net7.0\WasmPrimerIntento.Server.pdb
 C:\APLICADA1\WasmPrimerIntento\WasmPrimerIntento\Server\obj\Debug\net7.0\WasmPrimerIntento.Server.genruntimeconfig.cache
 C:\APLICADA1\WasmPrimerIntento\WasmPrimerIntento\Server\obj\Debug\net7.0\ref\WasmPrimerIntento.Server.dll
+C:\APLICADA1\WasmPrimerIntento\WasmPrimerIntento\Server\bin\Debug\net7.0\Radzen.Blazor.dll
+C:\APLICADA1\WasmPrimerIntento\WasmPrimerIntento\Server\bin\Debug\net7.0\System.Linq.Dynamic.Core.dll

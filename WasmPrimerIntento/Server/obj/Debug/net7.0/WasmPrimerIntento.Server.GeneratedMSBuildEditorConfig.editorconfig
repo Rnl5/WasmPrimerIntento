@@ -9,13 +9,13 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WasmPrimerIntento.Server
 build_property.RootNamespace = WasmPrimerIntento.Server
-build_property.ProjectDir = C:\APLICADA1\WasmPrimerIntento\WasmPrimerIntento\Server\
+build_property.ProjectDir = C:\APLICADA1\WasmPrimerIntento\WasmPrimerIntento\server\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\APLICADA1\WasmPrimerIntento\WasmPrimerIntento\Server
+build_property.MSBuildProjectDirectory = C:\APLICADA1\WasmPrimerIntento\WasmPrimerIntento\server
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/APLICADA1/WasmPrimerIntento/WasmPrimerIntento/Server/Pages/Error.cshtml]
+[C:/APLICADA1/WasmPrimerIntento/WasmPrimerIntento/server/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

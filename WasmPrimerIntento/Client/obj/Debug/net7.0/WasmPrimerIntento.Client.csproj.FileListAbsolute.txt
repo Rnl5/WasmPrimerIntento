@@ -814,8 +814,6 @@ C:\APLICADA1\WasmPrimerIntento\WasmPrimerIntento\Client\obj\Debug\net7.0\build-g
 C:\APLICADA1\WasmPrimerIntento\WasmPrimerIntento\Client\obj\Debug\net7.0\build-gz\vtHya5Qq.gz
 C:\APLICADA1\WasmPrimerIntento\WasmPrimerIntento\Client\obj\Debug\net7.0\build-gz\SLdD3iuz.gz
 C:\APLICADA1\WasmPrimerIntento\WasmPrimerIntento\Client\obj\Debug\net7.0\build-gz\gulxQz5o.gz
-C:\APLICADA1\WasmPrimerIntento\WasmPrimerIntento\Client\obj\Debug\net7.0\build-gz\59mIRVqQ.gz
-C:\APLICADA1\WasmPrimerIntento\WasmPrimerIntento\Client\obj\Debug\net7.0\build-gz\82G88HRl.gz
 C:\APLICADA1\WasmPrimerIntento\WasmPrimerIntento\Client\obj\Debug\net7.0\build-gz\vR3pdGpb.gz
 C:\APLICADA1\WasmPrimerIntento\WasmPrimerIntento\Client\obj\Debug\net7.0\blazor.boot.json
 C:\APLICADA1\WasmPrimerIntento\WasmPrimerIntento\Client\obj\Debug\net7.0\staticwebassets\msbuild.WasmPrimerIntento.Client.Microsoft.AspNetCore.StaticWebAssets.props
@@ -842,3 +840,5 @@ C:\APLICADA1\WasmPrimerIntento\WasmPrimerIntento\Client\bin\Debug\net7.0\Radzen.
 C:\APLICADA1\WasmPrimerIntento\WasmPrimerIntento\Client\bin\Debug\net7.0\System.Linq.Dynamic.Core.dll
 C:\APLICADA1\WasmPrimerIntento\WasmPrimerIntento\Client\obj\Debug\net7.0\build-gz\mRdf1TQC.gz
 C:\APLICADA1\WasmPrimerIntento\WasmPrimerIntento\Client\obj\Debug\net7.0\build-gz\mQO3dt42.gz
+C:\APLICADA1\WasmPrimerIntento\WasmPrimerIntento\client\obj\Debug\net7.0\build-gz\nsiBUsci.gz
+C:\APLICADA1\WasmPrimerIntento\WasmPrimerIntento\client\obj\Debug\net7.0\build-gz\QGz3JkCd.gz
