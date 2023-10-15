@@ -9,33 +9,33 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = WasmPrimerIntento.Client
 build_property.RootNamespace = WasmPrimerIntento.Client
-build_property.ProjectDir = C:\APLICADA1\WasmPrimerIntento\WasmPrimerIntento\client\
+build_property.ProjectDir = c:\APLICADA1\WasmPrimerIntento\WasmPrimerIntento\Client\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\APLICADA1\WasmPrimerIntento\WasmPrimerIntento\client
+build_property.MSBuildProjectDirectory = c:\APLICADA1\WasmPrimerIntento\WasmPrimerIntento\Client
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/APLICADA1/WasmPrimerIntento/WasmPrimerIntento/client/App.razor]
+[c:/APLICADA1/WasmPrimerIntento/WasmPrimerIntento/Client/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/APLICADA1/WasmPrimerIntento/WasmPrimerIntento/client/Pages/Index.razor]
+[c:/APLICADA1/WasmPrimerIntento/WasmPrimerIntento/Client/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/APLICADA1/WasmPrimerIntento/WasmPrimerIntento/client/Pages/Registros/R_Aportes.razor]
+[c:/APLICADA1/WasmPrimerIntento/WasmPrimerIntento/Client/Pages/Registros/R_Aportes.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0cm9zXFJfQXBvcnRlcy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/APLICADA1/WasmPrimerIntento/WasmPrimerIntento/client/_Imports.razor]
+[c:/APLICADA1/WasmPrimerIntento/WasmPrimerIntento/Client/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/APLICADA1/WasmPrimerIntento/WasmPrimerIntento/client/Shared/MainLayout.razor]
+[c:/APLICADA1/WasmPrimerIntento/WasmPrimerIntento/Client/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-hh2lrhkym1
 
-[C:/APLICADA1/WasmPrimerIntento/WasmPrimerIntento/client/Shared/NavMenu.razor]
+[c:/APLICADA1/WasmPrimerIntento/WasmPrimerIntento/Client/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-mbvzcwokbx

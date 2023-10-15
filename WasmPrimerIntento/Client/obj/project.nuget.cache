@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "llGjdAL/E8hV1TkSxr/MddKuhsQtv1huZkGUSvMCUhKC7YG4wkY4gC4/Ppf9T4dCVy4TK15WsNZ+p76I9UPXVw==",
+  "dgSpecHash": "897hxnC5il0Ez0leumb72icjqD6HqH2f6KBKsBeyarE72R1HvLah1lVZSCMDq1qSIX0mCifTIoTvG1rur0GZTg==",
   "success": true,
-  "projectFilePath": "C:\\APLICADA1\\WasmPrimerIntento\\WasmPrimerIntento\\client\\WasmPrimerIntento.Client.csproj",
+  "projectFilePath": "C:\\APLICADA1\\WasmPrimerIntento\\WasmPrimerIntento\\Client\\WasmPrimerIntento.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ronel\\.nuget\\packages\\dartsassbuilder\\1.0.0\\dartsassbuilder.1.0.0.nupkg.sha512",
     "C:\\Users\\ronel\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.10\\microsoft.aspnetcore.authorization.7.0.10.nupkg.sha512",

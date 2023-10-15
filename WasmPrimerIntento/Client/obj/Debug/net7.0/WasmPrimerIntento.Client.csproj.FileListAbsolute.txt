@@ -840,5 +840,5 @@ C:\APLICADA1\WasmPrimerIntento\WasmPrimerIntento\Client\bin\Debug\net7.0\Radzen.
 C:\APLICADA1\WasmPrimerIntento\WasmPrimerIntento\Client\bin\Debug\net7.0\System.Linq.Dynamic.Core.dll
 C:\APLICADA1\WasmPrimerIntento\WasmPrimerIntento\Client\obj\Debug\net7.0\build-gz\mRdf1TQC.gz
 C:\APLICADA1\WasmPrimerIntento\WasmPrimerIntento\Client\obj\Debug\net7.0\build-gz\mQO3dt42.gz
-C:\APLICADA1\WasmPrimerIntento\WasmPrimerIntento\client\obj\Debug\net7.0\build-gz\nsiBUsci.gz
-C:\APLICADA1\WasmPrimerIntento\WasmPrimerIntento\client\obj\Debug\net7.0\build-gz\QGz3JkCd.gz
+C:\APLICADA1\WasmPrimerIntento\WasmPrimerIntento\Client\obj\Debug\net7.0\build-gz\59mIRVqQ.gz
+C:\APLICADA1\WasmPrimerIntento\WasmPrimerIntento\Client\obj\Debug\net7.0\build-gz\82G88HRl.gz

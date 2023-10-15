@@ -9,13 +9,37 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WasmPrimerIntento.Server
 build_property.RootNamespace = WasmPrimerIntento.Server
-build_property.ProjectDir = C:\APLICADA1\WasmPrimerIntento\WasmPrimerIntento\server\
+build_property.ProjectDir = C:\APLICADA1\WasmPrimerIntento\WasmPrimerIntento\Server\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\APLICADA1\WasmPrimerIntento\WasmPrimerIntento\server
+build_property.MSBuildProjectDirectory = C:\APLICADA1\WasmPrimerIntento\WasmPrimerIntento\Server
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/APLICADA1/WasmPrimerIntento/WasmPrimerIntento/server/Pages/Error.cshtml]
+[C:/APLICADA1/WasmPrimerIntento/WasmPrimerIntento/Server/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/APLICADA1/WasmPrimerIntento/WasmPrimerIntento/Server/Views/Aportes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBvcnRlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/APLICADA1/WasmPrimerIntento/WasmPrimerIntento/Server/Views/Aportes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBvcnRlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/APLICADA1/WasmPrimerIntento/WasmPrimerIntento/Server/Views/Aportes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBvcnRlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/APLICADA1/WasmPrimerIntento/WasmPrimerIntento/Server/Views/Aportes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBvcnRlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/APLICADA1/WasmPrimerIntento/WasmPrimerIntento/Server/Views/Aportes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBvcnRlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/APLICADA1/WasmPrimerIntento/WasmPrimerIntento/Server/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

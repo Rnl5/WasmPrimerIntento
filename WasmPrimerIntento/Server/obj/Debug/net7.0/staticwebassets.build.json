@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ryBZYfeVHMyV7xcYAsZB+oyjJV909tAsjWzCPyyFGgs=",
+  "Hash": "WGEb4Rx50bwjdJN2DneyR6MVbTe2REfQ+o6CbTN8tlM=",
   "Source": "WasmPrimerIntento.Server",
   "BasePath": "_content/WasmPrimerIntento.Server",
   "Mode": "Default",
@@ -11,10 +11,10 @@
       "Version": 2,
       "Source": "WasmPrimerIntento.Client",
       "GetPublishAssetsTargets": "ComputeFilesToPublish;GetCurrentProjectPublishStaticWebAssetItems",
-      "AdditionalPublishProperties": "BuildProjectReferences=false;ResolveAssemblyReferencesFindRelatedSatellites=true;_PublishingBlazorWasmProject=true",
+      "AdditionalPublishProperties": "BuildProjectReferences=false;ResolveAssemblyReferencesFindRelatedSatellites=true;_PublishingBlazorWasmProject=true;Configuration=Debug;Platform=AnyCPU",
       "AdditionalPublishPropertiesToRemove": "NoBuild;RuntimeIdentifier;WebPublishProfileFile;TargetFramework",
       "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
-      "AdditionalBuildProperties": "",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
       "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
     }
   ],
@@ -114,6 +114,23 @@
       "OriginalItemSpec": "C:\\Users\\ronel\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\7.0.10\\runtimes\\browser-wasm\\native\\dotnet.wasm"
     },
     {
+      "Identity": "C:\\APLICADA1\\WasmPrimerIntento\\WasmPrimerIntento\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\icudt.dat",
+      "SourceId": "WasmPrimerIntento.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\APLICADA1\\WasmPrimerIntento\\WasmPrimerIntento\\Client\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt.dat",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "native",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\ronel\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\7.0.10\\runtimes\\browser-wasm\\native\\icudt.dat"
+    },
+    {
       "Identity": "C:\\APLICADA1\\WasmPrimerIntento\\WasmPrimerIntento\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\icudt_CJK.dat",
       "SourceId": "WasmPrimerIntento.Client",
       "SourceType": "Project",
@@ -163,23 +180,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\ronel\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\7.0.10\\runtimes\\browser-wasm\\native\\icudt_no_CJK.dat"
-    },
-    {
-      "Identity": "C:\\APLICADA1\\WasmPrimerIntento\\WasmPrimerIntento\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\icudt.dat",
-      "SourceId": "WasmPrimerIntento.Client",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\APLICADA1\\WasmPrimerIntento\\WasmPrimerIntento\\Client\\bin\\Debug\\net7.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt.dat",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "BlazorWebAssemblyResource",
-      "AssetTraitValue": "native",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\ronel\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\7.0.10\\runtimes\\browser-wasm\\native\\icudt.dat"
     },
     {
       "Identity": "C:\\APLICADA1\\WasmPrimerIntento\\WasmPrimerIntento\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll",
@@ -7084,23 +7084,6 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\APLICADA1\\WasmPrimerIntento\\WasmPrimerIntento\\Client\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
-      "SourceId": "WasmPrimerIntento.Client",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\APLICADA1\\WasmPrimerIntento\\WasmPrimerIntento\\Client\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "css/open-iconic/FONT-LICENSE",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
-    },
-    {
       "Identity": "C:\\APLICADA1\\WasmPrimerIntento\\WasmPrimerIntento\\Client\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "WasmPrimerIntento.Client",
       "SourceType": "Project",
@@ -7203,6 +7186,23 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
+      "Identity": "C:\\APLICADA1\\WasmPrimerIntento\\WasmPrimerIntento\\Client\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "SourceId": "WasmPrimerIntento.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\APLICADA1\\WasmPrimerIntento\\WasmPrimerIntento\\Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/open-iconic/FONT-LICENSE",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
+    },
+    {
       "Identity": "C:\\APLICADA1\\WasmPrimerIntento\\WasmPrimerIntento\\Client\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "WasmPrimerIntento.Client",
       "SourceType": "Project",
@@ -7288,23 +7288,6 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\ronel\\.nuget\\packages\\radzen.blazor\\4.17.0\\staticwebassets\\css\\dark-base.css",
-      "SourceId": "Radzen.Blazor",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\ronel\\.nuget\\packages\\radzen.blazor\\4.17.0\\staticwebassets\\",
-      "BasePath": "_content/Radzen.Blazor",
-      "RelativePath": "css/dark-base.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ronel\\.nuget\\packages\\radzen.blazor\\4.17.0\\staticwebassets\\css\\dark-base.css"
-    },
-    {
       "Identity": "C:\\Users\\ronel\\.nuget\\packages\\radzen.blazor\\4.17.0\\staticwebassets\\css\\dark.css",
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
@@ -7322,12 +7305,12 @@
       "OriginalItemSpec": "C:\\Users\\ronel\\.nuget\\packages\\radzen.blazor\\4.17.0\\staticwebassets\\css\\dark.css"
     },
     {
-      "Identity": "C:\\Users\\ronel\\.nuget\\packages\\radzen.blazor\\4.17.0\\staticwebassets\\css\\default-base.css",
+      "Identity": "C:\\Users\\ronel\\.nuget\\packages\\radzen.blazor\\4.17.0\\staticwebassets\\css\\dark-base.css",
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\ronel\\.nuget\\packages\\radzen.blazor\\4.17.0\\staticwebassets\\",
       "BasePath": "_content/Radzen.Blazor",
-      "RelativePath": "css/default-base.css",
+      "RelativePath": "css/dark-base.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -7336,7 +7319,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ronel\\.nuget\\packages\\radzen.blazor\\4.17.0\\staticwebassets\\css\\default-base.css"
+      "OriginalItemSpec": "C:\\Users\\ronel\\.nuget\\packages\\radzen.blazor\\4.17.0\\staticwebassets\\css\\dark-base.css"
     },
     {
       "Identity": "C:\\Users\\ronel\\.nuget\\packages\\radzen.blazor\\4.17.0\\staticwebassets\\css\\default.css",
@@ -7356,12 +7339,12 @@
       "OriginalItemSpec": "C:\\Users\\ronel\\.nuget\\packages\\radzen.blazor\\4.17.0\\staticwebassets\\css\\default.css"
     },
     {
-      "Identity": "C:\\Users\\ronel\\.nuget\\packages\\radzen.blazor\\4.17.0\\staticwebassets\\css\\humanistic-base.css",
+      "Identity": "C:\\Users\\ronel\\.nuget\\packages\\radzen.blazor\\4.17.0\\staticwebassets\\css\\default-base.css",
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\ronel\\.nuget\\packages\\radzen.blazor\\4.17.0\\staticwebassets\\",
       "BasePath": "_content/Radzen.Blazor",
-      "RelativePath": "css/humanistic-base.css",
+      "RelativePath": "css/default-base.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -7370,7 +7353,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ronel\\.nuget\\packages\\radzen.blazor\\4.17.0\\staticwebassets\\css\\humanistic-base.css"
+      "OriginalItemSpec": "C:\\Users\\ronel\\.nuget\\packages\\radzen.blazor\\4.17.0\\staticwebassets\\css\\default-base.css"
     },
     {
       "Identity": "C:\\Users\\ronel\\.nuget\\packages\\radzen.blazor\\4.17.0\\staticwebassets\\css\\humanistic.css",
@@ -7390,12 +7373,12 @@
       "OriginalItemSpec": "C:\\Users\\ronel\\.nuget\\packages\\radzen.blazor\\4.17.0\\staticwebassets\\css\\humanistic.css"
     },
     {
-      "Identity": "C:\\Users\\ronel\\.nuget\\packages\\radzen.blazor\\4.17.0\\staticwebassets\\css\\material-base.css",
+      "Identity": "C:\\Users\\ronel\\.nuget\\packages\\radzen.blazor\\4.17.0\\staticwebassets\\css\\humanistic-base.css",
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\ronel\\.nuget\\packages\\radzen.blazor\\4.17.0\\staticwebassets\\",
       "BasePath": "_content/Radzen.Blazor",
-      "RelativePath": "css/material-base.css",
+      "RelativePath": "css/humanistic-base.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -7404,7 +7387,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ronel\\.nuget\\packages\\radzen.blazor\\4.17.0\\staticwebassets\\css\\material-base.css"
+      "OriginalItemSpec": "C:\\Users\\ronel\\.nuget\\packages\\radzen.blazor\\4.17.0\\staticwebassets\\css\\humanistic-base.css"
     },
     {
       "Identity": "C:\\Users\\ronel\\.nuget\\packages\\radzen.blazor\\4.17.0\\staticwebassets\\css\\material.css",
@@ -7424,12 +7407,12 @@
       "OriginalItemSpec": "C:\\Users\\ronel\\.nuget\\packages\\radzen.blazor\\4.17.0\\staticwebassets\\css\\material.css"
     },
     {
-      "Identity": "C:\\Users\\ronel\\.nuget\\packages\\radzen.blazor\\4.17.0\\staticwebassets\\css\\software-base.css",
+      "Identity": "C:\\Users\\ronel\\.nuget\\packages\\radzen.blazor\\4.17.0\\staticwebassets\\css\\material-base.css",
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\ronel\\.nuget\\packages\\radzen.blazor\\4.17.0\\staticwebassets\\",
       "BasePath": "_content/Radzen.Blazor",
-      "RelativePath": "css/software-base.css",
+      "RelativePath": "css/material-base.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -7438,7 +7421,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ronel\\.nuget\\packages\\radzen.blazor\\4.17.0\\staticwebassets\\css\\software-base.css"
+      "OriginalItemSpec": "C:\\Users\\ronel\\.nuget\\packages\\radzen.blazor\\4.17.0\\staticwebassets\\css\\material-base.css"
     },
     {
       "Identity": "C:\\Users\\ronel\\.nuget\\packages\\radzen.blazor\\4.17.0\\staticwebassets\\css\\software.css",
@@ -7458,12 +7441,12 @@
       "OriginalItemSpec": "C:\\Users\\ronel\\.nuget\\packages\\radzen.blazor\\4.17.0\\staticwebassets\\css\\software.css"
     },
     {
-      "Identity": "C:\\Users\\ronel\\.nuget\\packages\\radzen.blazor\\4.17.0\\staticwebassets\\css\\standard-base.css",
+      "Identity": "C:\\Users\\ronel\\.nuget\\packages\\radzen.blazor\\4.17.0\\staticwebassets\\css\\software-base.css",
       "SourceId": "Radzen.Blazor",
       "SourceType": "Package",
       "ContentRoot": "C:\\Users\\ronel\\.nuget\\packages\\radzen.blazor\\4.17.0\\staticwebassets\\",
       "BasePath": "_content/Radzen.Blazor",
-      "RelativePath": "css/standard-base.css",
+      "RelativePath": "css/software-base.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -7472,7 +7455,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ronel\\.nuget\\packages\\radzen.blazor\\4.17.0\\staticwebassets\\css\\standard-base.css"
+      "OriginalItemSpec": "C:\\Users\\ronel\\.nuget\\packages\\radzen.blazor\\4.17.0\\staticwebassets\\css\\software-base.css"
     },
     {
       "Identity": "C:\\Users\\ronel\\.nuget\\packages\\radzen.blazor\\4.17.0\\staticwebassets\\css\\standard.css",
@@ -7490,6 +7473,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\ronel\\.nuget\\packages\\radzen.blazor\\4.17.0\\staticwebassets\\css\\standard.css"
+    },
+    {
+      "Identity": "C:\\Users\\ronel\\.nuget\\packages\\radzen.blazor\\4.17.0\\staticwebassets\\css\\standard-base.css",
+      "SourceId": "Radzen.Blazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\ronel\\.nuget\\packages\\radzen.blazor\\4.17.0\\staticwebassets\\",
+      "BasePath": "_content/Radzen.Blazor",
+      "RelativePath": "css/standard-base.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\ronel\\.nuget\\packages\\radzen.blazor\\4.17.0\\staticwebassets\\css\\standard-base.css"
     },
     {
       "Identity": "C:\\Users\\ronel\\.nuget\\packages\\radzen.blazor\\4.17.0\\staticwebassets\\fonts\\MaterialIcons-Regular.woff",

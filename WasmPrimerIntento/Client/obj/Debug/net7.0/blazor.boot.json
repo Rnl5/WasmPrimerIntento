@@ -200,15 +200,15 @@
       "mscorlib.dll": "sha256-Xo3wdLenBZ41X73hGjkWTbEQZDKcQsnPFtlkePUxLY0=",
       "netstandard.dll": "sha256-qjqaAEP3hdLnU\/TnoCd8HaSa+0ruV1TpdaB2GUujGMw=",
       "System.Private.CoreLib.dll": "sha256-\/7uQ+eNo9u3H1mpgMko4D3tKZHeGRfsRjna0Dqsu62k=",
-      "WasmPrimerIntento.Shared.dll": "sha256-h1robSyA5jaMFtqJHUKd3cy6VETdDHtkxcLBiLMzzo0=",
-      "WasmPrimerIntento.Client.dll": "sha256-LhNkhxQufK5sRz6uYs1mVnqq6JJqEKoGUVx7AwSd5CI="
+      "WasmPrimerIntento.Shared.dll": "sha256-UJ6AnWKtrSEbqSXRW7WWSJ4geEUs9jT15Ib7JEsj\/f0=",
+      "WasmPrimerIntento.Client.dll": "sha256-QREyRtm5dbqjrYrNFkmX6D+Nsv6POgPQBPlbxLjavAI="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "WasmPrimerIntento.Shared.pdb": "sha256-Abp0735Gty0xXFDjjUPQRm3lu4pqVMAwRHvGui58a9Q=",
-      "WasmPrimerIntento.Client.pdb": "sha256-DT4zVaQG18AM2EEhlDXgQGH8ldpZsb1Rm7AW5IV6EgQ="
+      "WasmPrimerIntento.Shared.pdb": "sha256-s8J2oonU0s+Yl0MWN18AH5JsA9HcuflrrE1gtoXIrwM=",
+      "WasmPrimerIntento.Client.pdb": "sha256-yZ74ISFto8lg4iGNHnFrRiNW357tHNKbb58tgtD2EJM="
     },
     "runtime": {
       "dotnet.7.0.10.eeywd9v74c.js": "sha256-qJB30QURoyH3y3WyayHu6nMFIx2XNOkXCez7tagGpvE=",

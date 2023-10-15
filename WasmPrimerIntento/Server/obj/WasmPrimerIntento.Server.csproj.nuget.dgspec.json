@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\APLICADA1\\WasmPrimerIntento\\WasmPrimerIntento\\server\\WasmPrimerIntento.Server.csproj": {}
+    "C:\\APLICADA1\\WasmPrimerIntento\\WasmPrimerIntento\\Server\\WasmPrimerIntento.Server.csproj": {}
   },
   "projects": {
     "C:\\APLICADA1\\WasmPrimerIntento\\WasmPrimerIntento\\Client\\WasmPrimerIntento.Client.csproj": {
@@ -93,14 +93,14 @@
         }
       }
     },
-    "C:\\APLICADA1\\WasmPrimerIntento\\WasmPrimerIntento\\server\\WasmPrimerIntento.Server.csproj": {
+    "C:\\APLICADA1\\WasmPrimerIntento\\WasmPrimerIntento\\Server\\WasmPrimerIntento.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\APLICADA1\\WasmPrimerIntento\\WasmPrimerIntento\\server\\WasmPrimerIntento.Server.csproj",
+        "projectUniqueName": "C:\\APLICADA1\\WasmPrimerIntento\\WasmPrimerIntento\\Server\\WasmPrimerIntento.Server.csproj",
         "projectName": "WasmPrimerIntento.Server",
-        "projectPath": "C:\\APLICADA1\\WasmPrimerIntento\\WasmPrimerIntento\\server\\WasmPrimerIntento.Server.csproj",
+        "projectPath": "C:\\APLICADA1\\WasmPrimerIntento\\WasmPrimerIntento\\Server\\WasmPrimerIntento.Server.csproj",
         "packagesPath": "C:\\Users\\ronel\\.nuget\\packages\\",
-        "outputPath": "C:\\APLICADA1\\WasmPrimerIntento\\WasmPrimerIntento\\server\\obj\\",
+        "outputPath": "C:\\APLICADA1\\WasmPrimerIntento\\WasmPrimerIntento\\Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -152,7 +152,11 @@
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.11, )"
+              "version": "[7.0.12, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[7.0.9, )"
             }
           },
           "imports": [
