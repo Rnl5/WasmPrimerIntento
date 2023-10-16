@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\APLICADA1\\WasmPrimerIntento\\WasmPrimerIntento\\Shared\\WasmPrimerIntento.Shared.csproj": {}
+    "c:\\APLICADA1\\WasmPrimerIntento\\WasmPrimerIntento\\Shared\\WasmPrimerIntento.Shared.csproj": {}
   },
   "projects": {
-    "C:\\APLICADA1\\WasmPrimerIntento\\WasmPrimerIntento\\Shared\\WasmPrimerIntento.Shared.csproj": {
+    "c:\\APLICADA1\\WasmPrimerIntento\\WasmPrimerIntento\\Shared\\WasmPrimerIntento.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\APLICADA1\\WasmPrimerIntento\\WasmPrimerIntento\\Shared\\WasmPrimerIntento.Shared.csproj",
+        "projectUniqueName": "c:\\APLICADA1\\WasmPrimerIntento\\WasmPrimerIntento\\Shared\\WasmPrimerIntento.Shared.csproj",
         "projectName": "WasmPrimerIntento.Shared",
-        "projectPath": "C:\\APLICADA1\\WasmPrimerIntento\\WasmPrimerIntento\\Shared\\WasmPrimerIntento.Shared.csproj",
+        "projectPath": "c:\\APLICADA1\\WasmPrimerIntento\\WasmPrimerIntento\\Shared\\WasmPrimerIntento.Shared.csproj",
         "packagesPath": "C:\\Users\\ronel\\.nuget\\packages\\",
-        "outputPath": "C:\\APLICADA1\\WasmPrimerIntento\\WasmPrimerIntento\\Shared\\obj\\",
+        "outputPath": "c:\\APLICADA1\\WasmPrimerIntento\\WasmPrimerIntento\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

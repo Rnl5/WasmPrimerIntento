@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T4Liixsx+U5odhGzZ7nTGHP9Stu5oz8ejcIiT/7l8F5+4X8J99vcIKTIgloGtyZzaGXOEQyNu19faCOd5bwPfw==",
+  "dgSpecHash": "a80V30AM8Boj+NeGxsnzTK2msSjR/ln3gqRP/nVSf9G9vbb5KDhNwLbg0rZvaprW7BNtp2JobmTBwm8nPizUcQ==",
   "success": true,
-  "projectFilePath": "C:\\APLICADA1\\WasmPrimerIntento\\WasmPrimerIntento\\Server\\WasmPrimerIntento.Server.csproj",
+  "projectFilePath": "c:\\APLICADA1\\WasmPrimerIntento\\WasmPrimerIntento\\Server\\WasmPrimerIntento.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ronel\\.nuget\\packages\\dartsassbuilder\\1.0.0\\dartsassbuilder.1.0.0.nupkg.sha512",
     "C:\\Users\\ronel\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
